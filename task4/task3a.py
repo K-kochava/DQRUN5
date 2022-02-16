@@ -21,11 +21,6 @@ invalidtxt = ' iz '
 validtxt = ' is '
 
 
-def fixspelling(task):
-    taskfixed = task.lower()
-    return(taskfixed)
-
-
 def proper(sentence, sep1, sep2):
     new_words = sentence.split(sep1)
     j = ''
