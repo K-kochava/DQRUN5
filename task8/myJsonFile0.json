@@ -1,0 +1,15 @@
+{
+	"Feed": {
+		"ad": {
+			"text": "iPhone 11 pro, excellent condition, 256gb. ",
+			"date": "2022-05-01"
+		},
+		"news": {
+			"text": "No good news. ",
+			"city": "MinsK"
+		},
+		"forecast": {
+			"city": "milan"
+		}
+	}
+}
